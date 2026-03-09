@@ -273,3 +273,4 @@ export default function EditPostClient({ post, categories }: EditPostClientProps
     </form>
   );
 }
+
